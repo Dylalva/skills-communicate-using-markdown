@@ -10,3 +10,9 @@ def helloWorld()
 helloWorld()
 
 ```
+
+---
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Learn about GitHub
